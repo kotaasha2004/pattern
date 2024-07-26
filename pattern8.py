@@ -5,3 +5,4 @@ def main(n):
         print()
 n=int(input())
 res=main(n)
+ 
